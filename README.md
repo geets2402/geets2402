@@ -23,17 +23,17 @@ I'm passionate about web development and constantly exploring new frameworks and
 ## 🚀 Projects
 Here are some of the projects I have worked on or am currently working on:
 
-- **Project 1**: [Name of Project] - A brief description of the project (e.g., "A React-based weather app that fetches weather data from an API").
-- **Project 2**: [Name of Project] - A brief description of the project (e.g., "An Angular e-commerce site with features like user authentication and product management").
+- **Project 1**: HRM Website - The web site that provides the admin to manage the employee look at thir perfoemace and attendence.
+- **Project 2**: E-Commerce website - The website that provides the different type of the product that are devided into categories 
 
 ## 📚 Learning Journey
 I’m constantly improving my skills and following tutorials, documentation, and best practices to build better applications. You can check out my repositories to see the work I’ve done with **React.js**, **Angular**, and **Node.js**.
 
 ## 🔗 Connect with Me
 - GitHub: [https://github.com/geet2402](https://github.com/geet2402)
-- LinkedIn: [Your LinkedIn Profile Link]
-- Twitter: [Your Twitter Handle]
-- Email: [Your Email Address]
+- LinkedIn: 
+- Twitter: 
+- Email: 
 
 Feel free to reach out to me for collaborations or any questions you may have. Let's code together and build amazing things!
 
